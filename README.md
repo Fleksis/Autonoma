@@ -21,7 +21,7 @@
 **Ka mēs strādājam :**
 
 : No paša sākuma mēs kā visi  sākam veidot saitā dizainē , bet pēc pirmās stundas es ( Dmitrijs Semjonovs ) visu pārveidoju , jo pagājušās dizains , bija slikts . Un pilnībā es nodarbojos vairāk ar dizainu .
-Tālāk mēs sākam veidot pašu kodu , kamēr Markuss un Ivans veidoja galveno un admina lapu , es veidoju readme failu. Bet es tāpat palīdzēju ar dažādām lietām 
+Tālāk mēs sākam veidot pašu kodu , kamēr Markuss un Ivans veidoja galveno un admina lapu , es veidoju readme failu. Bet es tāpat palīdzēju ar dažādām lietām ...
 
 ---
 
@@ -38,3 +38,5 @@ Tālāk mēs sākam veidot pašu kodu , kamēr Markuss un Ivans veidoja galveno 
 * **Klienta lapa :**
 
 ![](klienta.png)
+
+
