@@ -1,0 +1,11 @@
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.logo2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
