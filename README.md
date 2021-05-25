@@ -1,4 +1,4 @@
-<h1 alight="center">#Autonoma</h1>
+#  Autonoma
 ---
 **Dizains :**
 
@@ -10,10 +10,10 @@
 
 **Grupā ir strādājuši sekojuši grupas DP1-3 audzēkņi :**
 
-* Markuss Mišins 
+    * Markuss Mišins 
 
-* Dmitrijs Semjonovs
+    * Dmitrijs Semjonovs
 
-* Ivans Sadovnikovs
+    * Ivans Sadovnikovs
 
 ---   
