@@ -40,15 +40,15 @@ body {
     color: rgb(255, 255, 255);
 }
 
-.test {
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    margin-top: -100px;
+.adminPos {
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 1780px;
 }
 
 .adminPoga {
     width: 124px;
     height: 32px;
+    font-size: 20px;
     background: #CCCCCC;
 }
