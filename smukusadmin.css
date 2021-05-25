@@ -1,5 +1,5 @@
 body {
-    background-image: url("background.png");
+    background-image: url("admin_background.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -11,23 +11,7 @@ body {
 
 .LOGO {
     width: 400px;
-    height: 250px;
-}
-
-.nomātAuto {
-    width: 348px;
-    height: 60px;
-    background: #C4C4C4;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
-    line-height: 58px;
-}
-
-.nomasPoga {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 25px;
+    height: 200px;
 }
 
 .nomasText {
@@ -47,14 +31,18 @@ body {
     margin-top: -100px;
 }
 
-.adminPoga {
-    width: 124px;
-    height: 32px;
-    background: #CCCCCC;
-}
-
 .backbutton {
     width: 124px;
     height: 32px;
     background: #CCCCCC;   
 }
+
+.katalogs {
+    display:flex;
+    align-items: center; 
+    justify-content: center;
+    margin-top: 50px;
+    border-radius: inherit;
+}
+
+.mashinu_katalogs
