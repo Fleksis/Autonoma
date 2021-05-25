@@ -40,15 +40,21 @@ body {
     color: rgb(255, 255, 255);
 }
 
-.adminPos {
-    position: absolute;
-    margin-top: -250px;
-    margin-left: 1780px;
+.test {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: -100px;
 }
 
 .adminPoga {
     width: 124px;
     height: 32px;
-    font-size: 20px;
     background: #CCCCCC;
+}
+
+.backbutton {
+    width: 124px;
+    height: 32px;
+    background: #CCCCCC;   
 }
